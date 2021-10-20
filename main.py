@@ -36,5 +36,5 @@ if __name__ == '__main__':
 
     splitedstr = line.split()
     print(splitedstr[0])
-    print(splitedstr[1])
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
